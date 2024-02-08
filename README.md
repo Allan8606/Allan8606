@@ -2,9 +2,9 @@
 
 :computer: “Desenvolvedor apaixonado por código, tecnologia e criar soluções. Gosto de resolver problemas desafiadores e sempre aprender coisas novas.” 🚀
 
-Me chamo Allan Isaac, estou em trasição de carreira para esse mundo incrível da programação. Atualmente estou aprendendo e criando projetos com foco no Front End. :fire:
+Me chamo Allan Isaac, estou em trasição de carreira para esse mundo incrível da programação. Atualmente estou aprendendo e criando projetos com foco no Front End, mas buscando conhecimentos para me tornar Desenvolvedor Full Stack :fire:
 
-Motivado por buscar grandes desafios e soluções que possam facilitar, automatizar e melhorar a experiência de outra pessoa. :muscle:
+Motivado por buscar grandes desafios e soluções que possam facilitar, automatizar e melhorar a experiência de outras pessoas. :muscle:
 
 👨‍💻 Minhas habilidades incluem:
 
