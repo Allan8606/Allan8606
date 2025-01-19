@@ -18,7 +18,7 @@ Motivado por buscar grandes desafios e soluções que possam facilitar, automati
 
 :mortar_board: Formação:
 - Análise e Desenvolvimento de Sistemas
-- Pós em Desenvolvimento Full Stack (cursando)
+- Sistemas Para Internet (cursando)
 
 🌟Cursos Livres:
 - EBAC - Escola Britanica de Artes Criativas (cursando)
