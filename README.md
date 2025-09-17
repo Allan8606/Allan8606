@@ -30,10 +30,11 @@ Me chamo Allan Isaac, e estou em transição de carreira para o universo da prog
 
 ### 📚 Cursos Livres
 
+- Java10x
 - Oracle/Alura
 - Rocketseat  
 - Origamid  
-- EBAC – Escola Britânica de Artes Criativas 
+
 
 ---
 
